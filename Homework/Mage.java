@@ -21,9 +21,9 @@ public class Mage extends Character {
     public void takeDamage(int i) {
     }
 
-	public String getAttackPower() {
-		return null;
-	}
+	// public String getAttackPower() {
+	// 	return null;
+	// }
 }
 
 
